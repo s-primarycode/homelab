@@ -10,11 +10,12 @@ Documenting my homelab progress/activity
   - Thinkpad x201 (released 2010)
   - Intel Core i5 CPU
   - 2gb Ram
-  - 250gb Storage
-  - 32 bit Operating Systems
+  - 320gb Storage
+  - 64 bit Operating Systems
 
-### Modification/Changes made before starting
-  - Computer used to crash when stressed out. Diagnosed the issue. Bought some Thermal Paste to replaced the old Thermal paste. Turns out whoever owned this laptop before me added a red clear piece of tape between the heatsink and the CPU. Also the Thermal Paste was caked on. Replaced it and the laptop stopped crashing. Tempature also dropped. Does not overheat anymore
+### Modification/Changes made before starting (and other useful info)
+  - Computer used to crash when stressed out. Diagnosed the issue. Bought some Thermal Paste to replaced the old Thermal paste. Turns out whoever owned this laptop before me added a red clear piece of tape between the heatsink and the CPU. Also the Thermal Paste was caked on. Replaced it and the laptop stopped crashing. Tempature also dropped. Does not overheat anymore.
+  - Battery was removed. Will only operate with the charger. Uses Ethernet.
 
 ### Progress Log
   - **12-29-2025:** Installed Ubunter server 20.04 lts
