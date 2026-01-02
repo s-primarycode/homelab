@@ -26,3 +26,5 @@ Documenting my homelab progress/activity
   - **12-29-2025:** Installed Samba
   - **12-29-2025:** Installed Jellyfin
   - **12-30-2025:** Changed settings that disabled sleep mode when closed
+  - **01-01-2025:** Finally figured out how to properly upload an album to Jellyfin
+  - **01-01-2025:** Installed Finamp on my phone to properly listen to music
