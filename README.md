@@ -37,7 +37,7 @@
 - Service: Samba
   - Reason: To share files between Linux and Windows
 - Service: Jellyfin
-  - Reason: To self-host music, movies and TV shows over streaming
+  - Reason: To self-host music, movies, TV shows, and other personal media over streaming
 ---
 ### Change Logs
   - **12-29-2025:** Installed Ubunter server 20.04 lts
@@ -50,4 +50,5 @@
   - **12-30-2025:** Changed settings that disabled sleep mode when closed
   - **01-01-2026:** Finally figured out how to properly upload an album to Jellyfin
   - **01-01-2026:** Installed Finamp on my phone to properly listen to music
+  - **02-07-2026:** Finished installing docker.io
 ---
