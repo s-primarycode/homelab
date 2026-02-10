@@ -51,4 +51,6 @@
   - **01-01-2026:** Finally figured out how to properly upload an album to Jellyfin
   - **01-01-2026:** Installed Finamp on my phone to properly listen to music
   - **02-07-2026:** Finished installing docker.io
+  - **02-09-2026:** Finished installing Portainer
+  - **02-09-2026:** Installed Heimdall
 ---
