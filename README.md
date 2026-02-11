@@ -38,6 +38,8 @@
   - Reason: To share files between Linux and Windows
 - Service: Jellyfin
   - Reason: To self-host music, movies, TV shows, and other personal media over streaming
+- Service: Finamp
+  - Reason: To listen to music on my phone
 ---
 ### Change Logs
   - **12-29-2025:** Installed Ubunter server 20.04 lts
@@ -53,4 +55,5 @@
   - **02-07-2026:** Finished installing docker.io
   - **02-09-2026:** Finished installing Portainer
   - **02-09-2026:** Installed Heimdall
+  - **02-10-2026:** Installed ffmpeg
 ---
