@@ -56,4 +56,5 @@
   - **02-09-2026:** Finished installing Portainer
   - **02-09-2026:** Installed Heimdall
   - **02-10-2026:** Installed ffmpeg
+  - **03-02-2026:** Installed Browsh
 ---
