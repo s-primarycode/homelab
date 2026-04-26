@@ -57,4 +57,6 @@
   - **02-09-2026:** Installed Heimdall
   - **02-10-2026:** Installed ffmpeg
   - **03-02-2026:** Installed Browsh
+  - **04-10-2026:** Deleted Ubuntu Server & installed AntiX
+  - **04-26-2026:** Installed Ubuntu Server 26.04 LTS
 ---
