@@ -58,5 +58,6 @@
   - **02-10-2026:** Installed ffmpeg
   - **03-02-2026:** Installed Browsh
   - **04-10-2026:** Deleted Ubuntu Server & installed AntiX
-  - **04-26-2026:** Installed Ubuntu Server 26.04 LTS
 ---
+### Notes:
+  - AntiX was not as fast as I wanted it to be. Going back to Ubuntu Server
