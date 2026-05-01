@@ -23,7 +23,7 @@
 ---
 ### Operating System
 - OS: Ubuntu Server
-- Version: 20.04 LTS
+- Version: 26.04 LTS
 ---
 ### Users
 - Primary User: Me
@@ -32,14 +32,12 @@
 - Auth Method: Password
 ---
 ### Install Services
-- Service: SSH
-  - Reason: Remote access
-- Service: Samba
-  - Reason: To share files between Linux and Windows
-- Service: Jellyfin
-  - Reason: To self-host music, movies, TV shows, and other personal media over streaming
-- Service: Finamp
-  - Reason: To listen to music on my phone
+- **SSH:** For remote access
+- **Samba:** To share files between Linux and Windows
+- **Docker:** To run apps in containers to not mess up the server
+- **Navidrome:** To self-host my music file
+- **Jellyfin:** To self-host music, movies, TV shows, and other personal media
+- **Finamp:** To listen to self-hosted music from **Jellyfin** on my ios device
 ---
 ### Change Logs
   - **12-29-2025:** Installed Ubunter server 20.04 lts
@@ -60,4 +58,3 @@
   - **04-10-2026:** Deleted Ubuntu Server & installed AntiX
 ---
 ### Notes:
-  - AntiX was not as fast as I wanted it to be. Going back to Ubuntu Server
