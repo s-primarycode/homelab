@@ -23,7 +23,7 @@
 ---
 ### Operating System
 - OS: Ubuntu Server
-- Version: 20.04 LTS
+- Version: 20.04 LTS (older version due to having an older computer
 ---
 ### Users
 - Primary User: Me
