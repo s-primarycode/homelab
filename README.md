@@ -4,8 +4,7 @@
 
 ### Overview
 
-- The purpose for this is to learn more about the IT side of computing. The 2nd reason is take back a bit of ownership over my media and personal information. This server will serve 2 purposes; a home lab and a media server
-- Reference and inspiration used to start this project:
+- The purpose for this is to learn more about the IT side of computing. The 2nd reason is set up media server.
   - The $0 Home Server - Kalos Likes Computers
   - https://youtu.be/IuRWqzfX1ik?si=NFn_1WRt_5dBWWkG
 ---
@@ -40,21 +39,11 @@
 - **Finamp:** To listen to self-hosted music from **Jellyfin** on my ios device
 ---
 ### Change Logs
-  - **12-29-2025:** Installed Ubunter server 20.04 lts
-    - Laptop is on older side and has less capabilities, So installing an older version of Ubuntu server was a better choice
-  - **12-29-2025:** Used Rufus to load Ubuntu onto a USB stick
-  - **12-29-2025:** Installed Ubuntu Server install image
-  - **12-29-2025:** Set up server
-  - **12-29-2025:** Installed Samba
-  - **12-29-2025:** Installed Jellyfin
-  - **12-30-2025:** Changed settings that disabled sleep mode when closed
-  - **01-01-2026:** Finally figured out how to properly upload an album to Jellyfin
-  - **01-01-2026:** Installed Finamp on my phone to properly listen to music
-  - **02-07-2026:** Finished installing docker.io
-  - **02-09-2026:** Finished installing Portainer
-  - **02-09-2026:** Installed Heimdall
-  - **02-10-2026:** Installed ffmpeg
-  - **03-02-2026:** Installed Browsh
-  - **04-10-2026:** Deleted Ubuntu Server & installed AntiX
+  - **04-29-2026:** Installed Ubuntu Sever 26.04 LTS
+  - **04-29-2026:** Installed Samba
+  - **04-29-2026:** Installed Docker
+  - **04-29-2026:** Deleted old Docker since it was outdated and reinstalled Docker from their official repository
+  - **04-30-2026:** Successfully installed Navidrome after a couple failed attempts (Installed in Docker)
+  - **05-01-2026:** Uploaded music files to Navidrome
 ---
 ### Notes:
