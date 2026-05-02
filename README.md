@@ -39,11 +39,11 @@
 - **Finamp:** To listen to self-hosted music from **Jellyfin** on my ios device
 ---
 ### Change Logs
-  - **04-29-2026:** Installed Ubuntu Sever 26.04 LTS
-  - **04-29-2026:** Installed Samba
-  - **04-29-2026:** Installed Docker
-  - **04-29-2026:** Deleted old Docker since it was outdated and reinstalled Docker from their official repository
-  - **04-30-2026:** Successfully installed Navidrome after a couple failed attempts (Installed in Docker)
-  - **05-01-2026:** Uploaded music files to Navidrome
+- **04-29-2026:** Installed Ubuntu Sever 26.04 LTS
+- **04-29-2026:** Installed Samba
+- **04-29-2026:** Installed Docker
+- **04-29-2026:** Deleted old Docker since it was outdated and reinstalled Docker from their official repository
+- **04-30-2026:** Successfully installed Navidrome after a couple failed attempts (Installed in Docker)
+- **05-01-2026:** Uploaded music files to Navidrome
 ---
 ### Notes:
