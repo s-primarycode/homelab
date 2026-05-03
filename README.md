@@ -30,20 +30,23 @@
 - SSH Enabled?: Yes
 - Auth Method: Password
 ---
-### Install Services
+### Installed Services
 - **SSH:** For remote access
 - **Samba:** To share files between Linux and Windows
 - **Docker:** To run apps in containers to not mess up the server
 - **Navidrome:** To self-host my music file
 - **Jellyfin:** To self-host music, movies, TV shows, and other personal media
-- **Finamp:** To listen to self-hosted music from **Jellyfin** on my ios device
+- **Substreamer:** To listen to self-hosted music from **Navidrome** on my ios device
+- **Fastfetch:** To display system information in the terminal
 ---
 ### Change Logs
 - **04-29-2026:** Installed Ubuntu Sever 26.04 LTS
 - **04-29-2026:** Installed Samba
 - **04-29-2026:** Installed Docker
 - **04-29-2026:** Deleted old Docker since it was outdated and reinstalled Docker from their official repository
+- **04-30-2026:** Installed Fastfetch
 - **04-30-2026:** Successfully installed Navidrome after a couple failed attempts (Installed in Docker)
 - **05-01-2026:** Uploaded music files to Navidrome
+- **05-02-2026:** Installed Jellyfin on Docker
 ---
 ### Notes:
