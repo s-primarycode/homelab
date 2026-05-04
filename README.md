@@ -38,6 +38,7 @@
 - **Jellyfin:** To self-host music, movies, TV shows, and other personal media
 - **Substreamer:** To listen to self-hosted music from **Navidrome** on my ios device
 - **Fastfetch:** To display system information in the terminal
+- **Ncdu:** To display disk usage in the terminal
 ---
 ### Change Logs
 - **04-29-2026:** Installed Ubuntu Sever 26.04 LTS
@@ -48,5 +49,6 @@
 - **04-30-2026:** Successfully installed Navidrome after a couple failed attempts (Installed in Docker)
 - **05-01-2026:** Uploaded music files to Navidrome
 - **05-02-2026:** Installed Jellyfin on Docker
+- **05-04-2026:** Installed Ncdu
 ---
 ### Notes:
