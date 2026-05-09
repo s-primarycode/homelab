@@ -50,5 +50,6 @@
 - **05-01-2026:** Uploaded music files to Navidrome
 - **05-02-2026:** Installed Jellyfin on Docker
 - **05-04-2026:** Installed Ncdu
+- **05-07-2026:** Set up Tailscale
 ---
 ### Notes:
